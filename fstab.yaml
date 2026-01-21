@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/sanyakasaudhan2112/genai/main"
+    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/sanyakasaudhan1/genai/main"
     type: "markup"
     suffix: ".html"
